@@ -1,0 +1,31 @@
+body{
+    font-family: 'Prompt', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 4px;
+    padding-left: 5%;
+}
+.half-width image{
+    width: 100px;
+    height: 5px;
+    border: 5px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 20px 40 px;
+    border-radius: 15px;
+    font-size: 700;
+
+
+}
