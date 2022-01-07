@@ -7,6 +7,7 @@ h1{
 }
 .orange-color{
     color: orange;
+    
 }
 section{
     display: flex;
@@ -14,7 +15,7 @@ section{
 .half-width{
     width: 4px;
     padding-left: 5%;
-}
+    }
 .half-width image{
     width: 100px;
     height: 5px;
@@ -26,6 +27,20 @@ section{
     padding: 20px 40 px;
     border-radius: 15px;
     font-size: 700;
-
-
-}
+    }
+    .name{
+        text-align: center;
+        color: red;
+    }
+    .mission-item{
+         width:40%;
+        margin-left: 5%;
+        margin-left: 5%;
+        border-radius: 10px;
+        padding-right: 10px;
+        padding-left:20% ;
+        box-shadow: 10px 10px 40px cornsilk;
+        border:10px aqua;
+        background-color: beige;
+    }
+    
