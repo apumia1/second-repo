@@ -11,6 +11,8 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 50px;
+    margin-top: 20%;
 }
 .half-width{
     width: 4px;
@@ -24,9 +26,10 @@ section{
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
-    padding: 20px 40 px;
-    border-radius: 15px;
+    padding: 10px 40 px;
+    border-radius: 25px;
     font-size: 700;
+    background-color: beige;
     }
     .name{
         text-align: center;
@@ -42,5 +45,9 @@ section{
         box-shadow: 10px 10px 40px cornsilk;
         border:10px aqua;
         background-color: beige;
+    }
+    footer p{
+        text-align: center;
+        background-color: black;
     }
     
